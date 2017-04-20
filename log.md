@@ -13,3 +13,14 @@ https://www.freecodecamp.com/challenges/dna-pairing
 https://www.freecodecamp.com/challenges/missing-letters
 (Since these are small challenges, I won't post them all on github. When I get to the larger projects in a few more days they will go up here and maybe CodePen.)
 
+### Day 2: April 19, 2017
+
+**Today's Progress**: Boo Who challenge, Sorted Union challenge, Convert HTML entities challenge
+
+**Thoughts:** Only 10 more challenges until the advanced scripting challenges.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/boo-who
+https://www.freecodecamp.com/challenges/sorted-union
+https://www.freecodecamp.com/challenges/convert-html-entities
+(Since these are small challenges, I won't post them all on github. When I get to the larger projects in a few more days they will go up here and maybe CodePen.)
