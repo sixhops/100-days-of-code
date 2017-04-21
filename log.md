@@ -24,3 +24,16 @@ https://www.freecodecamp.com/challenges/boo-who
 https://www.freecodecamp.com/challenges/sorted-union
 https://www.freecodecamp.com/challenges/convert-html-entities
 (Since these are small challenges, I won't post them all on github. When I get to the larger projects in a few more days they will go up here and maybe CodePen.)
+
+### Day 3: April 20, 2017
+
+**Today's Progress**: Spinal Tap Case challenge, Sum All Odd Fibonacci Numbers challenge, Sum All Primes challenge started
+
+**Thoughts:** I heart RegEx.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/spinal-tap-case
+https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers
+https://www.freecodecamp.com/challenges/sum-all-primes
+(Since these are small challenges, I won't post them all on github. When I get to the larger projects in a few more days they will go up here and maybe CodePen.)
+
