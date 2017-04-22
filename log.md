@@ -37,3 +37,13 @@ https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers
 https://www.freecodecamp.com/challenges/sum-all-primes
 (Since these are small challenges, I won't post them all on github. When I get to the larger projects in a few more days they will go up here and maybe CodePen.)
 
+### Day 4: April 21, 2017
+
+**Today's Progress**: Sum All Primes challenge, Smallest Common Multiple challenge started
+
+**Thoughts:** Lots of math proofs. Had to dust off that part of my brain.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/sum-all-primes
+https://www.freecodecamp.com/challenges/smallest-common-multiple
+(Since these are small challenges, I won't post them all on github. When I get to the larger projects in a few more days they will go up here and maybe CodePen.)
