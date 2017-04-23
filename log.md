@@ -47,3 +47,13 @@ https://www.freecodecamp.com/challenges/sum-all-primes
 https://www.freecodecamp.com/challenges/sum-all-primes
 https://www.freecodecamp.com/challenges/smallest-common-multiple
 (Since these are small challenges, I won't post them all on github. When I get to the larger projects in a few more days they will go up here and maybe CodePen.)
+
+### Day 5: April 22, 2017
+
+**Today's Progress**: Smallest Common Multiple challenge continued
+
+**Thoughts:** Completely rewrote the algorithm to be a little less convoluted. Spent a lot of time tracking down refactoring bugs from the rewrites. Basically going for finding the prime factorization of each number, folding lower prime multiples into whatever has the highest, then mutiplying all factors together to get the LCM. Lots of loops and array manipulation. Will continue work on it tomorrow.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/smallest-common-multiple
+(Since these are small challenges, I won't post them all on github. When I get to the larger projects in a few more days they will go up here and maybe CodePen.)
