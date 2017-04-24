@@ -57,3 +57,13 @@ https://www.freecodecamp.com/challenges/smallest-common-multiple
 **Link to work:** 
 https://www.freecodecamp.com/challenges/smallest-common-multiple
 (Since these are small challenges, I won't post them all on github. When I get to the larger projects in a few more days they will go up here and maybe CodePen.)
+
+### Day 6: April 23, 2017
+
+**Today's Progress**: Smallest Common Multiple challenge continued
+
+**Thoughts:** Prime factorization is working. Now I'm working on retaining only the highest quantities of each factor for multiplying to find the LCM. Switching from an array to a hash/object helps keep track of the factors and their quantities.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/smallest-common-multiple
+(Since these are small challenges, I won't post them all on github. When I get to the larger projects in a few more days they will go up here and maybe CodePen.)
