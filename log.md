@@ -67,3 +67,14 @@ https://www.freecodecamp.com/challenges/smallest-common-multiple
 **Link to work:** 
 https://www.freecodecamp.com/challenges/smallest-common-multiple
 (Since these are small challenges, I won't post them all on github. When I get to the larger projects in a few more days they will go up here and maybe CodePen.)
+
+### Day 7: April 24, 2017
+
+**Today's Progress**: Smallest Common Multiple challenge continued
+
+**Thoughts:** Good lord, what a complicated mess. Mostly functional but having issues with translating from a hash property name to a 2D array value. Will probably move to an object for each number since the data to maintain is getting to be a juggling act without an object to encapsulate it all.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/smallest-common-multiple
+(Since these are small challenges, I won't post them all on github. When I get to the larger projects in a few more days they will go up here and maybe CodePen.)
+
