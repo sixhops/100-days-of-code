@@ -78,3 +78,14 @@ https://www.freecodecamp.com/challenges/smallest-common-multiple
 https://www.freecodecamp.com/challenges/smallest-common-multiple
 (Since these are small challenges, I won't post them all on github. When I get to the larger projects in a few more days they will go up here and maybe CodePen.)
 
+### Day 8: April 25, 2017
+
+**Today's Progress**: Smallest Common Multiple challenge, Finders Keepers challenge
+
+**Thoughts:** Finally beat the bear! Smallest common multiple is down. And the next challenge had literally a one-line solution.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/smallest-common-multiple
+https://www.freecodecamp.com/challenges/finders-keepers
+https://codepen.io/sixhops/pen/qrPZmg - My solution to the LCM challenge. DO NOT READ IF YOU HAVE NOT COMPLETED THIS ONE.
+
