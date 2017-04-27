@@ -89,3 +89,14 @@ https://www.freecodecamp.com/challenges/smallest-common-multiple
 https://www.freecodecamp.com/challenges/finders-keepers
 https://codepen.io/sixhops/pen/qrPZmg - My solution to the LCM challenge. DO NOT READ IF YOU HAVE NOT COMPLETED THIS ONE.
 
+### Day 9: April 26, 2017
+
+**Today's Progress**: Drop It challenge, Steamroller challenge, Binary Agents challenge
+
+**Thoughts:** Pretty easy challenges today, comparatively. Got to write a recursive solution for Steamroller. Only two more challenges and then onto the Advanced section!
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/drop-it
+https://www.freecodecamp.com/challenges/steamroller
+https://www.freecodecamp.com/challenges/binary-agents
+
