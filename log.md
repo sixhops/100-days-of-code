@@ -100,3 +100,12 @@ https://www.freecodecamp.com/challenges/drop-it
 https://www.freecodecamp.com/challenges/steamroller
 https://www.freecodecamp.com/challenges/binary-agents
 
+### Day 10: April 27, 2017
+
+**Today's Progress**: Everything Be True challenge
+
+**Thoughts:** Outside of this code, I learned a ton today by researching the answers to the Front End Developer Interview Questions on github.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/everything-be-true
+
