@@ -109,3 +109,14 @@ https://www.freecodecamp.com/challenges/binary-agents
 **Link to work:** 
 https://www.freecodecamp.com/challenges/everything-be-true
 
+### Day 11: April 28, 2017
+
+**Today's Progress**: Everything Be True challenge, Arguments Optional challenge, Validate US Telephone Numbers challenge started.
+
+**Thoughts:** Finished the Intermediate scripting challenges and moved into Advanced. Learned that isNaN() will coerce a string into a number. Lame. Used typeof instead to see if something was a number or not.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/everything-be-true
+https://www.freecodecamp.com/challenges/arguments-optional
+https://www.freecodecamp.com/challenges/validate-us-telephone-numbers
+
