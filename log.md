@@ -120,3 +120,13 @@ https://www.freecodecamp.com/challenges/everything-be-true
 https://www.freecodecamp.com/challenges/arguments-optional
 https://www.freecodecamp.com/challenges/validate-us-telephone-numbers
 
+### Day 12: April 29, 2017
+
+**Today's Progress**: Validate US Telephone Numbers challenge completed, Record Collection challenge.
+
+**Thoughts:** Busted out two in an hour. At that rate I can finish advanced scripting in about 5 days (1 hour per day) instead of 50 hours.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/validate-us-telephone-numbers
+https://www.freecodecamp.com/challenges/record-collection
+
