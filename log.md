@@ -130,3 +130,12 @@ https://www.freecodecamp.com/challenges/validate-us-telephone-numbers
 https://www.freecodecamp.com/challenges/validate-us-telephone-numbers
 https://www.freecodecamp.com/challenges/record-collection
 
+### Day 13: April 30, 2017
+
+**Today's Progress**: Symmetric Difference challenge.
+
+**Thoughts:** Finished a single today. Took several hours. Made liberal use of Chrome debugger. Initially my logic was correct and then I had a second, more concise idea which turned out to be partly wrong. But adding back in part of the original logic allowed it to work. This one was difficult to understand from the text. I needed to watch the linked video to have them explain the algebra behind these unions and intersections. Writing it out on a piece of paper helped too.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/symmetric-difference
+
