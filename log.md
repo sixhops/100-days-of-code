@@ -139,3 +139,11 @@ https://www.freecodecamp.com/challenges/record-collection
 **Link to work:** 
 https://www.freecodecamp.com/challenges/symmetric-difference
 
+### Day 14: May 1, 2017
+
+**Today's Progress**: Exact Change challenge.
+
+**Thoughts:** More with objects. Adding an object to an array adds a reference to that object so if that object changes, so does the array's "copy" because it is actually a reference to the original object. Create a new object each time to push onto the array. Don't use one object and modify its values and try to push. it wont work.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/exact-change
