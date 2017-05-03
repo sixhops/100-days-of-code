@@ -147,3 +147,12 @@ https://www.freecodecamp.com/challenges/symmetric-difference
 
 **Link to work:** 
 https://www.freecodecamp.com/challenges/exact-change
+
+### Day 15: May 2, 2017
+
+**Today's Progress**: Super secret app development
+
+**Thoughts:** Began work on a new secret project. Spent time wireframing and pseudocoding the functionality. No code for it is online yet but I will post if it is okay with the client. Just taking a short break from the Camp.
+
+**Link to work:** 
+nothing but what is written on my notepad (made of actual paper)
