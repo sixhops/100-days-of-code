@@ -156,3 +156,22 @@ https://www.freecodecamp.com/challenges/exact-change
 
 **Link to work:** 
 nothing but what is written on my notepad (made of actual paper)
+
+### Day 16: May 3, 2017
+
+**Today's Progress**: Super secret app development, resume
+
+**Thoughts:** Layed out much of the HTML and CSS for the super secret project. Started working on the layout for my online resume.
+
+**Link to work:** 
+No link to this work until I show the potential client.
+
+### Day 17: May 4, 2017
+
+**Today's Progress**: Resume
+
+**Thoughts:** Continued laying out the resume page. Added content from old resumes.
+
+**Link to work:** 
+Nothing online yet. I want to have this complete before I link it anywhere.
+
