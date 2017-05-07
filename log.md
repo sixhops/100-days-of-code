@@ -175,3 +175,19 @@ No link to this work until I show the potential client.
 **Link to work:** 
 Nothing online yet. I want to have this complete before I link it anywhere.
 
+### Day 18: May 5, 2017
+
+**Today's Progress**: OFF DAY
+
+**Thoughts:** Slept for 3.5 hours instead of coding. Will use one of my days off.
+
+**Link to work:** 
+
+### Day 19: May 6, 2017
+
+**Today's Progress**: Exact Change challenge (FreeCodeCamp)
+
+**Thoughts:** Had to deal with the built-in float imprecision. Since I couldn't link in a library for handling decimals I ended up multiplying all currency values by 100 before processing and then dividing by 100 before output. Actually, mutiplying by 10 twice and dividing by 10 twice which, for some reason, did not screw up the variable's precision.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/exact-change
