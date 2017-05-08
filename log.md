@@ -191,3 +191,13 @@ Nothing online yet. I want to have this complete before I link it anywhere.
 
 **Link to work:** 
 https://www.freecodecamp.com/challenges/exact-change
+
+### Day 20: May 7, 2017
+
+**Today's Progress**: No Repeats Please challenge (FreeCodeCamp)
+
+**Thoughts:** Oh lord. Spent the evening trying to reverse engineer a math formula for this challenge. Base case is done. The first exception (required by the tests) is about half done. Lots of weird cases to catch when you have two or more letters that can repeat.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/no-repeats-please
+
