@@ -201,3 +201,11 @@ https://www.freecodecamp.com/challenges/exact-change
 **Link to work:** 
 https://www.freecodecamp.com/challenges/no-repeats-please
 
+### Day 21: May 8, 2017
+
+**Today's Progress**: Secret app development
+
+**Thoughts:** Procrastinating on the permutation challenge and getting a go ahead from the client with trades in mind, I went back to developing the app. I'm making a web application in HTML/CSS/JS which I will use some 3rd-party software to allow it to run on iOS and Android.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/no-repeats-please
