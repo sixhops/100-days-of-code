@@ -208,4 +208,40 @@ https://www.freecodecamp.com/challenges/no-repeats-please
 **Thoughts:** Procrastinating on the permutation challenge and getting a go ahead from the client with trades in mind, I went back to developing the app. I'm making a web application in HTML/CSS/JS which I will use some 3rd-party software to allow it to run on iOS and Android.
 
 **Link to work:** 
+
+### Day 22: May 9, 2017
+
+**Today's Progress**: Secret app development
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 23: May 10, 2017
+
+**Today's Progress**: No Repeats Please challenge (FreeCodeCamp)
+
+**Thoughts:** Found a problem in my guess for the algorithm for calculating these mathematically. Need to write in a new exception.
+
+**Link to work:** 
 https://www.freecodecamp.com/challenges/no-repeats-please
+
+### Day 24: May 11, 2017
+
+**Today's Progress**: No Repeats Please challenge, Make a Person challenge, Map the Debris challenge (FreeCodeCamp)
+
+**Thoughts:** Discovered a thing called Heap's algorithm which will generate all the permutations for a string using a simple swapping scheme. After implementing that, the solution to "no repeats please" was trivial. Just used a regex to find repeated chars. The Person challenge was a little weird having to have the right number of members but easy to solve. Map the Debris was simple once I found the correct formula to use.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/no-repeats-please
+https://www.freecodecamp.com/challenges/make-a-person
+https://www.freecodecamp.com/challenges/map-the-debris
+
+### Day 25: May 12, 2017
+
+**Today's Progress**: Pairwise challenge (FreeCodeCamp)
+
+**Thoughts:** Completed the final Advanced Javascript Algorithm challenge. Now on to the 4 final projects for the certificate.
+
+**Link to work:** 
+https://www.freecodecamp.com/challenges/pairwise
